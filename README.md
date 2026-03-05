@@ -106,10 +106,10 @@ chmod 744 start_find_use-for.sh
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>cat ./file1.txt
 hello
-cat ./folder1/folder2/folder5/file5.txt
-world
 cat ./folder1/folder3/file3.txt
-find</code></pre>
+find
+cat ./folder1/folder2/folder5/file5.txt
+world</code></pre>
 </details>
 </div>
 
@@ -382,10 +382,10 @@ chmod 744 start_find_use-for.sh
 <details class="wp-block-details"><summary>詳細</summary>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>cat ./file1.txt
 hello
-cat ./folder1/folder2/folder5/file5.txt
-world
 cat ./folder1/folder3/file3.txt
-find</code></pre>
+find
+cat ./folder1/folder2/folder5/file5.txt
+world</code></pre>
 </details>
 </div>
 
